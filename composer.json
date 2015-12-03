@@ -1,5 +1,5 @@
 {
-    "name": "zirak/widget-pages-extension",
+    "name": "MilesSummers/widget-pages-extension",
     "description": "Freely inspired to burnbright/silverstripe-widgetpages, add a Widget's Gridfield to the extended pages",
     "type": "silverstripe-module",
     "keywords": ["silverstripe", "widgets"],
